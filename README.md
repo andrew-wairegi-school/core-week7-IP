@@ -3,23 +3,25 @@
 ### By: Andrew Wairegi
 
 ## Description
-To analyse the Mchezopesa ltd dataset that we have been given that has been
-created by FIFA. This will allow me to to create a model,that the Mchezopesa ltd company 
-can use to predict wins/looses in a match. However, the dataset also has data on draws. 
-So it will allow me to create a model that can also predict draws. This is the purpose of the
-notebook.
+To analyse house pricing data. To be able to find the main predictors
+of house prices. As well as create a model that will allow me, to predict
+house prices. Given features, from new houses. This will allow the Hass Consulting
+company. To determine house prices for their houses. As well as evaluate the prices
+of othwr house sellers. Without a physical house realtor. This will allow them to do
+their business quickly. As well as with lower prices. As not many house realtors would have
+to be employed in their company.
 
 ## Setup/installation instructions
 1. Find a local folder on your computer
-2. Setup your folder as an empty repository (using git init)
-3. Clone the remote repository here, into your local folder (using git clone https://...)
+2. Setup it up as a empty repository (using git init)
+3. Clone this repository there, into the local folder (git clone https://...)
 4. Upload the collaboratory notebook to google drive
 5. Open it online
-6. Upload the data files in your repository to the google collab, in the file upload section
+6. Upload the data files to the google collab (in the file upload section)
 7. Run the notebook
 
 ## Known Bugs
-There are no known problems/issues
+There are no known issues
 
 ## Technologies Used
 1. Python - The programming language
